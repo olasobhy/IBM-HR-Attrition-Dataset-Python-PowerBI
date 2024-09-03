@@ -1,10 +1,10 @@
-# IBM-HR-Dataset-Python-PowerBI
+# IBM-HR-Attrition-Dataset-Python-PowerBI
 <br>
-**Overview**
+##Overview
 <br>
 This repository contains an analysis of the IBM HR Attrition Dataset using Python and Power BI. The project demonstrates how to explore, analyze, and visualize HR data to gain insights into employee attrition and includes predictive modeling to forecast attrition risk.
 <br>
-Contents
+##Contents
 <br>
 IBM-HR-Attrition-Dataset.ipynb: Jupyter notebook with Python code for data preprocessing, analysis, modeling, and predictions.
 PowerBI_Report.pbix: Power BI file with interactive visualizations and dashboards based on the IBM HR dataset.
