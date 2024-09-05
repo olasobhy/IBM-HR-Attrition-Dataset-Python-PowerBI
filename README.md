@@ -7,7 +7,7 @@ This repository contains an analysis of the IBM HR Attrition Dataset using Pytho
 ## Contents
 
 - **`IBM-HR-Attrition-Dataset.ipynb`**: Jupyter notebook with Python code for data preprocessing, analysis, modeling, and predictions.
-- **`PowerBI_Report.pbix`**: Power BI file with interactive visualizations and dashboards based on the IBM HR dataset.
+- **`IBM-HR-Attrition.pbix`**: Power BI file with interactive visualizations and dashboards based on the IBM HR dataset.
 
 ## Usage
 
@@ -23,6 +23,6 @@ This repository contains an analysis of the IBM HR Attrition Dataset using Pytho
 
 ### Power BI Report
 
-- Explore interactive dashboards and reports to visualize HR metrics and attrition trends.
-- Use the insights from the predictive models to inform decision-making and strategic planning.
+- I visualize HR metrics and attrition trends.
+- From the IBM Attrition Dataset, it's evident that employees in the Scientific and Laboratory departments have a higher attrition rate. This trend is likely driven by lower salaries in comparison to other departments, despite these employees having a longer tenure at the company.
 
