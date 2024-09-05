@@ -19,7 +19,6 @@ This repository contains an analysis of the IBM HR Attrition Dataset using Pytho
 - **Predictive Modeling**:
   - **Models Used**: I used **RandomForestClassifier** to predict attrition risk.
   - **Evaluation**: Models are evaluated using metrics like accuracy, precision, recall, and F1 score.
-- **Visualization**: Visualize the results and predictions to gain actionable insights.
 
 ### Power BI Report
 
